@@ -1,6 +1,6 @@
 package com.example.antrahwmerged.controller;
 
-import com.example.antrahwmerged.domain.EmployeeDTO;
+import com.example.antrahwmerged.entity.EmployeeDTO;
 import com.example.antrahwmerged.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

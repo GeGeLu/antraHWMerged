@@ -1,7 +1,7 @@
 package com.example.antrahwmerged.service;
 
-import com.example.antrahwmerged.domain.EmployeeDTO;
-import com.example.antrahwmerged.domain.Employee;
+import com.example.antrahwmerged.entity.EmployeeDTO;
+import com.example.antrahwmerged.entity.Employee;
 import com.example.antrahwmerged.repository.EmployeeRepository;
 import org.apache.juli.logging.Log;
 import org.apache.juli.logging.LogFactory;
